@@ -20,3 +20,4 @@ overlays/
 .classpath
 .settings/
 .module-cache
+*.py
